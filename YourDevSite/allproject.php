@@ -91,7 +91,7 @@ function get_avatar($email,$taille = null){
 </tr>
 <?php
 $retour = mysql_query('SELECT * FROM projet ORDER BY id DESC');
-while ($donnees = mysql_fetch_array($retour)) // On fait une boucle pour lister les news.
+while ($donnees = mysql_fetch_array($retour)) 
 {
 ?>
 <tr>
