@@ -83,7 +83,7 @@ function get_avatar($email,$taille = null){
     </head>
     <body>
         <div class="page">
-            <div class="gravatar"><?php get_avatar($email_gravatar); ?></div><div class="titre"><h1>Home</h1></div>
+            <div class="gravatar"><?php get_avatar($email_gravatar); ?></div><div class="titre"><h1>liste des projets</h1></div>
         <p><table><tr>
 <th>id</th>
 <th>Titre</th>
