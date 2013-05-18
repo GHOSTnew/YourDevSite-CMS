@@ -1,4 +1,5 @@
 === YourDevSite ===
+V: 1.2
 
 Démo: http://ghostnew.hostei.com/
 

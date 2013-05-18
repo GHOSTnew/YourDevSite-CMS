@@ -24,7 +24,7 @@ function get_avatar($email,$taille = null){
     <head>
         <script type="text/javascript" src="js/jquery.js"></script>
         <script type="text/javascript" src="js/interface.js"></script>
-        <link href="style.css" rel="stylesheet" type="text/css" />
+        <link href="style/style.css" rel="stylesheet" type="text/css" />
 <!--[if lt IE 7]>
  <style type="text/css">
  .dock img { behavior: url(iepngfix.htc) }
